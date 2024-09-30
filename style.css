@@ -1,0 +1,6 @@
+body {
+   background-image: url("cavewall.png");
+  background-repeat: repeat;
+  image-rendering: crisp-edges;
+  background-color: rgba(0, 0, 0, .2);
+}
